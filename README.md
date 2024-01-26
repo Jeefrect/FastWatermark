@@ -1,5 +1,7 @@
 # FastWatermark
 Быстрое добавление вотермарки на видео для Windows.
+![image](https://github.com/Jeefrect/FastWatermark/assets/121081064/c197be1c-7e37-4fb5-8702-f819d5729885)
+
 
 ## Как пользоваться
 1. Закинь изображение своей вотермарки в папку с bat-файлом. Название по-умолчанию: watermark.png
