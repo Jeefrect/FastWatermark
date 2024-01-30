@@ -1,5 +1,5 @@
 # FastWatermark
-Быстрое добавление вотермарки на видео для Windows.
+Быстрое добавление ватермарки на видео для Windows.
 
 ![image](https://github.com/Jeefrect/FastWatermark/assets/121081064/c1476123-39e4-431c-b22b-4923d8ade820)
 
